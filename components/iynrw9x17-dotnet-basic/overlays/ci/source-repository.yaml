@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iynrw9x17-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/iynrw9x17-dotnet-basic
